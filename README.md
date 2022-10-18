@@ -1,4 +1,4 @@
-# making-databases-easy-techfest-albania
+# Making Databases Easy
 
 Code For Talk At Techfest Albania 22/23 October 2022
 
